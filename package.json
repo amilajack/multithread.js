@@ -6,9 +6,6 @@
   "repository": "git://github.com/amilajack/multithread.js.git",
   "author": "Amila Welihinda <amilajack@gmail.com>",
   "main": "index.js",
-  "browser": {
-    "index.js": "./lib/multithread.js.js"
-  },
   "keywords": [
     "multithread.js",
     "web worker",

@@ -1,6 +1,6 @@
 {
   "name": "multithread.js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "In-browser multithreading made easy",
   "homepage": "http://github.com/amilajack/multithread.js",
   "repository": "git://github.com/amilajack/multithread.js.git",
